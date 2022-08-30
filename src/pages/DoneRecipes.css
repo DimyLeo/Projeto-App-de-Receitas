@@ -65,7 +65,9 @@
 }
 
 .icon-share-recipes {
+  background: none;
   border: none;
+  border-radius: 20px;
   margin: 5px;
   margin-left: 110px;
 }
