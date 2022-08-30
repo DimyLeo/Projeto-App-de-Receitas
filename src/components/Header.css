@@ -1,0 +1,32 @@
+.Header {
+  background-color: #341d0a;
+  color: white;
+  padding: 5px;
+}
+
+.Header > div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Header button {
+  border: none;
+  border-radius: 5px;
+}
+
+.search-input {
+  border: none;
+  border-radius: 5px;
+  width: 120px;
+}
+
+.label-inputs {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+header h1 {
+  font-style: italic;
+}

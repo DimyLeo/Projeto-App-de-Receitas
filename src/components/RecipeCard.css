@@ -1,0 +1,30 @@
+.RecipeCard {
+  border-radius: 20px;
+  flex: 40% 1;
+}
+
+.RecipeCard a {
+  color: #341d0a;
+  text-decoration: none;
+}
+
+.RecipeCard img {
+  border-radius: 20px 20px 0 0;
+  box-shadow: 5px 0 6px rgba(0, 0, 0, 0.4);
+  height: 120px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.text-card {
+  background-color: #ffdcbe;
+  border-radius: 0 0 20px 20px;
+  box-shadow: 5px 6px 6px rgba(0, 0, 0, 0.4);
+  font-weight: 600;
+  margin-bottom: 20px;
+  margin-top: -4px;
+  padding: 12px;
+  text-align: center;
+  width: 100%;
+}
+

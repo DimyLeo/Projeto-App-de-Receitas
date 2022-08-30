@@ -1,0 +1,27 @@
+.FilterBar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px;
+}
+
+.FilterBar button {
+  background-color: #341d0a;
+  border: none;
+  border-radius: 50px;
+  color: white;
+  flex: 30% 1;
+  padding: 2px;
+}
+
+.div-filter {
+  background-image: url('https://images2.imgbox.com/ea/d4/Zw3x3k61_o.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.logo-apetite {
+  margin: auto;
+  width: 200px;
+}

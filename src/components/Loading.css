@@ -1,0 +1,289 @@
+.div-1 {
+  display: flex;
+}
+
+.card-load {
+  align-items: center;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: linear-gradient(to right, #a77954 8%, #dca06e 18%, #a77954 33%);
+  background-size: 800px 104px;
+  border-radius: 20px;
+  display: flex;
+  height: 155px;
+  justify-content: center;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: relative;
+  width: 170px;
+}
+
+.card-p {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 60px;
+  justify-content: center;
+  margin-top: 95px;
+  position: absolute;
+  width: 170px;
+}
+
+.icons-load {
+  align-items: center;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: linear-gradient(to right, #a77954 8%, #dca06e 18%, #a77954 33%);
+  background-color: #f6f7f8;
+  background-size: 800px 104px;
+  border-radius: 20px;
+  display: flex;
+  height: 90px;
+  justify-content: center;
+  margin-left: 35px;
+  margin-top: 85px;
+  position: relative;
+  width: 100px;
+}
+
+.icon-1-load {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  margin-bottom: 40px;
+  margin-left: 50px;
+  position: absolute;
+  width: 30px;
+}
+
+.icon-2-load {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  position: absolute;
+  width: 40px;
+}
+
+.ingredients-load {
+  align-items: center;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: linear-gradient(to right, #a77954 8%, #dca06e 18%, #a77954 33%);
+  background-color: #f6f7f8;
+  background-size: 800px 104px;
+  border-radius: 20px;
+  display: flex;
+  height: 155px;
+  justify-content: center;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: relative;
+  width: 220px;
+}
+
+.li-load-1 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: 85px;
+  position: absolute;
+  width: 200px;
+}
+
+.li-load-2 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: 28px;
+  position: absolute;
+  width: 200px;
+}
+
+.li-load-3 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: -30px;
+  position: absolute;
+  width: 200px;
+}
+
+.li-load-4 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: -85px;
+  position: absolute;
+  width: 200px;
+}
+
+.instructions-load {
+  align-items: center;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: linear-gradient(to right, #a77954 8%, #dca06e 18%, #a77954 33%);
+  background-color: #f6f7f8;
+  background-size: 800px 104px;
+  border-radius: 20px;
+  display: flex;
+  height: 250px;
+  justify-content: center;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: relative;
+  width: 320px;
+}
+
+.linha-load-1 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: -180px;
+  position: absolute;
+  width: 280px;
+}
+
+.linha-load-2 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: -120px;
+  position: absolute;
+  width: 280px;
+}
+
+.linha-load-3 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: -60px;
+  position: absolute;
+  width: 280px;
+}
+
+.linha-load-4 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: 0;
+  position: absolute;
+  width: 280px;
+}
+
+.linha-load-5 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: 60px;
+  position: absolute;
+  width: 280px;
+}
+
+.linha-load-6 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: 120px;
+  position: absolute;
+  width: 280px;
+}
+
+.linha-load-7 {
+  align-items: center;
+  background-color: #8b6649;
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  margin-top: 180px;
+  position: absolute;
+  width: 280px;
+}
+
+/* separação */
+.background-masker {
+  background-color: white;
+  position: absolute;
+}
+
+.btn-divide-left {
+  height: 100%;
+  left: 25%;
+  top: 0;
+  width: 5%;
+}
+
+@keyframes placeHolderShimmer {
+
+  0% {
+    background-position: -800px 0;
+  }
+
+  100% {
+    background-position: 800px 0;
+  }
+}
+
+.animated-background {
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: linear-gradient(to right, #eee 8%, #bbb 18%, #eee 33%);
+  background-color: #f6f7f8;
+  background-size: 800px 104px;
+  position: relative;
+}
+

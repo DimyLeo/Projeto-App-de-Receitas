@@ -1,0 +1,119 @@
+.SearchBar {
+  background-image: url('https://images2.imgbox.com/ea/d4/Zw3x3k61_o.png');
+  display: flex;
+  flex-direction: column;
+  margin-left: -5px;
+  margin-top: 5px;
+  padding: 15px;
+  position: absolute;
+  width: 100%;
+}
+
+.SearchBar label {
+  background-color: #341d0a;
+  border-radius: 20px;
+  display: flex;
+  padding: 5px 10px;
+}
+
+.label-search {
+  font-size: 14px;
+}
+
+.label-search:hover {
+  background-color: #dca06e;
+  color: black;
+  font-weight: 600;
+}
+
+.search-input {
+  background-color: #341d0a;
+  border-radius: 20px;
+  color: #dca06e;
+  margin-bottom: 15px;
+  margin-top: 5px;
+  padding: 8px;
+  text-align: center;
+  width: 100%;
+}
+
+.search-input::placeholder {
+  color: #dca06e;
+  font-size: 20px;
+  text-align: center;
+}
+
+.icon-search {
+  margin-left: -10px;
+  margin-top: -8px;
+  position: absolute;
+}
+
+.label-inputs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 10px;
+}
+
+.SearchBar button {
+  background: none;
+}
+
+/* .label-inputs input {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.label-inputs label {
+  display: inline-block;
+  padding-left: 18px;
+  position: relative;
+}
+
+.label-inputs label:before {
+  background: #dca06e;
+  border: 1px solid black;
+  border-radius: 50%;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  content: '';
+  display: inline-block;
+  height: 12px;
+  left: 2px;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  transition: all 0.2s ease;
+  vertical-align: middle;
+  width: 12px;
+}
+
+.label-inputs label:focus:before, .label-inputs label:hover:before {
+  background: #341d0a;
+}
+
+.label-inputs label:after {
+  color: white;
+  content: '\2713';
+  font-size: 1em;
+  left: 0.75em;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transition: all 0.2s ease;
+}
+
+.label-inputs input:checked + label:after {
+  opacity: 1;
+} */
+
+/* .ratios-search-bar {
+  display: none;
+} */

@@ -1,0 +1,19 @@
+.Footer {
+  align-items: center;
+  backdrop-filter: blur(2px);
+  background: rgba(52, 29, 10, 0.84);
+  background-repeat: no-repeat;
+  border-radius: 50px;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+}
+
+.Footer button {
+  background: none;
+  border: none;
+  height: 55px;
+  width: 60px;
+}

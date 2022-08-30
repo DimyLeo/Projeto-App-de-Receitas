@@ -1,0 +1,23 @@
+.start-recipe {
+  bottom: 0;
+  display: flex;
+  left: 0;
+  padding: 10px;
+  position: fixed;
+  right: 0;
+}
+
+.start-recipe button {
+  background-color: #341d0a;
+  border: none;
+  border-radius: 10px;
+  color: #dca06e;
+  margin: auto;
+  padding: 10px;
+  width: 80%;
+}
+
+.start-recipe button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}

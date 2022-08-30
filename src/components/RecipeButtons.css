@@ -1,0 +1,23 @@
+.buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.buttons button {
+  background-color: inherit;
+  border: none;
+}
+
+.is-copied-msg {
+  background-color: rgba(50, 50, 50, 0.5);
+  border-bottom-right-radius: 30px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  padding: 10px;
+  position: fixed;
+  right: 40%;
+  top: 0;
+}

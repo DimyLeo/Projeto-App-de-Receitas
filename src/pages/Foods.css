@@ -1,0 +1,17 @@
+.div-foods {
+  background-color: #dca06e;
+}
+
+.receitapp {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 100px;
+  margin-top: 20px;
+}
+
+html {
+  background-color: #dca06e;
+}

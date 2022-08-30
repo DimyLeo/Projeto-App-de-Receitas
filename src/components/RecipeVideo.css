@@ -1,0 +1,12 @@
+.RecipeVideo {
+  padding: 10px;
+}
+
+.RecipeVideo h3 {
+  color: white;
+}
+
+.RecipeVideo iframe {
+  border: 4px solid #543215;
+  width: 100%;
+}

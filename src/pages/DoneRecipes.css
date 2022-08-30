@@ -1,0 +1,66 @@
+.logos-dones-page {
+  align-items: center;
+  background-image: url('https://images2.imgbox.com/bc/65/dYUeu03f_o.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px 0;
+}
+
+.logo-done {
+  margin-bottom: 20px;
+  width: 250px;
+}
+
+.div-btns-recipes {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn-done-recipes {
+  background-color: #341d0a;
+  border: none;
+  border-radius: 50px;
+  color: white;
+  padding: 3px 5px;
+  width: 90px;
+}
+
+.div-card-recipes {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.img-card-recipes {
+  height: 140px;
+  width: 300px;
+}
+
+.data-card-recipes {
+  backdrop-filter: blur(3px);
+  background: rgba(255, 220, 190, 0.85);
+  border-radius: 0 20px 20px 0;
+  height: 140px;
+  margin-bottom: 4px;
+  margin-left: 122px;
+  padding: 15px;
+  text-align: center;
+}
+
+.name {
+  color: rgba(119, 62, 30, 0.67);
+  font-weight: 500;
+  margin: 5px;
+}
+
+.done-date {
+  font-weight: 500;
+}
+
+.icon-share-recipes {
+  margin: 5px;
+  margin-left: 110px;
+}

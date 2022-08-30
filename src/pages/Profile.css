@@ -1,0 +1,54 @@
+.profile {
+  align-items: center;
+  background-image: url('https://images2.imgbox.com/7b/31/DbujpT0u_o.png');
+  display: flex;
+  flex-direction: column;
+  height: 92.55vh;
+  justify-content: center;
+}
+
+.profilecontent {
+  align-items: center;
+  background-color: hsl(27, 68%, 12%);
+  border: none;
+  border-radius: 20px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto , sans-serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 900;
+  height: 50px;
+  justify-content: center;
+  line-height: 33px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  width: 300px;
+}
+
+.email-profile {
+  color: hsl(27, 68%, 12%);
+  font-family: Roboto , sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 33px;
+  margin-bottom: 15px;
+  margin-top: 90px;
+}
+
+
+.receitapp-profile {
+  margin-bottom: -25px;
+  margin-top: 10px;
+}
+
+.logo-profile {
+  border: 4px solid #341d0a;
+  border-radius: 100px;
+  margin-bottom: -70px;
+  margin-top: 0;
+  width: 110px;
+}

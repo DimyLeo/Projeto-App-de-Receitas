@@ -1,0 +1,80 @@
+.logos-favorite-page {
+  align-items: center;
+  background-image: url('https://media.discordapp.net/attachments/1010241458038653030/1013891731382616164/Background_1.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px 0;
+}
+
+.favorite-re {
+  margin-bottom: 20px;
+}
+
+.RecipeFavoriteCard {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.RecipeFavoriteCard a {
+  color: #341d0a;
+  text-decoration: none;
+}
+
+.RecipeFavoriteCard img {
+  border-radius: 20px;
+  height: 140px;
+  object-fit: cover;
+  width: 300px;
+}
+
+.data-card-favorites {
+  backdrop-filter: blur(3px);
+  background: rgba(255, 220, 190, 0.85);
+  border-radius: 0 20px 20px 0;
+  height: 140px;
+  margin-bottom: 4px;
+  margin-left: 122px;
+  padding: 5px;
+
+  /* position: absolute; */
+  text-align: center;
+  width: 190px;
+}
+
+.div-favorite-page button {
+  background-color: #341d0a;
+  border: none;
+  border-radius: 50px;
+  color: white;
+  flex: 30% 1;
+  margin: 5px;
+  padding: 2px;
+}
+
+.filters-favorites {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 20px;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.buttons button {
+  background-color: inherit;
+  border: none;
+}
+
+.buttons img {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+
