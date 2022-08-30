@@ -120,17 +120,19 @@ function DoneRecipes() {
             >
               <img src={ shareIcon } alt="share icon" />
             </button>
-            { recipe.tags && (
-              recipe.tags.map((tag) => (
-                <span
-                  key={ `${index}-${tag}` }
-                  data-testid={ `${index}-${tag}-horizontal-tag` }
-                >
-                  {tag}
+            <div className="tags-done">
+              { recipe.tags && (
+                recipe.tags.map((tag) => (
+                  <span
+                    key={ `${index}-${tag}` }
+                    data-testid={ `${index}-${tag}-horizontal-tag` }
+                  >
+                    {tag}
 
-                </span>
-              ))
-            )}
+                  </span>
+                ))
+              )}
+            </div>
 
           </div>
         </div>
