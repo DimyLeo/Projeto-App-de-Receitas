@@ -1,12 +1,12 @@
-import PropTypes from 'prop-types';
 import clipboardCopy from 'clipboard-copy';
+import PropTypes from 'prop-types';
 import React, { useState } from 'react';
 import { useHistory } from 'react-router-dom';
-import shareIcon from '../images/shareIcon.svg';
 import blackHeartIcon from '../images/blackHeartIcon.svg';
+import shareIcon from '../images/shareIcon.svg';
 import whiteHeartIcon from '../images/whiteHeartIcon.svg';
-import './RecipeButtons.css';
 import { getFromLocalStorage, setToLocalStorage } from '../utils/getSetLocalStorage';
+import './RecipeButtons.css';
 
 const messageTimeOut = 2000;
 
@@ -19,7 +19,7 @@ const RecipeButtons = ({ favoriteRecipe }) => {
 
   const shareRecipe = (pathname) => {
     const url = pathname.replace('/in-progress', '');
-    clipboardCopy(`http://localhost:3000${url}`);
+    clipboardCopy(`http://dimyleo.github.io${url}`);
     setIsCopied(true);
     setTimeout(() => {
       setIsCopied(false);

@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
 import clipboardCopy from 'clipboard-copy';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 import blackHeartIcon from '../images/blackHeartIcon.svg';
@@ -20,7 +20,7 @@ function FavoriteRecipes() {
   });
 
   const shareRecipe = (id, type) => {
-    clipboardCopy(`http://localhost:3000/${type}s/${id}`);
+    clipboardCopy(`http://dimyleo.github.io/${type}s/${id}`);
     setIsCopied(true);
     setTimeout(() => {
       setIsCopied(false);
