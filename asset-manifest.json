@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Projeto-App-de-Receitas/static/css/main.26b64e8d.css",
+    "main.js": "/Projeto-App-de-Receitas/static/js/main.ffe96c81.js",
+    "static/media/Bon Appetit.svg": "/Projeto-App-de-Receitas/static/media/Bon Appetit.580425bfc5da19f4a1b0f9f50840b101.svg",
+    "static/media/Background (7).png": "/Projeto-App-de-Receitas/static/media/Background (7).08a0b1825785d256ebe4.png",
+    "static/media/ReceitappTittle.svg": "/Projeto-App-de-Receitas/static/media/ReceitappTittle.05b4472e995fe8e5357eaa93de6d8a0d.svg",
+    "static/media/Tittle Favorite.svg": "/Projeto-App-de-Receitas/static/media/Tittle Favorite.e401a97807fcb52f849ca8a5ec170e6f.svg",
+    "static/media/Logo-done-recipes.svg": "/Projeto-App-de-Receitas/static/media/Logo-done-recipes.040789bc7894fe15c342ccebe35dd9d6.svg",
+    "static/media/mealIcon.svg": "/Projeto-App-de-Receitas/static/media/mealIcon.9898968286cadfc632d7388d4a84a0f1.svg",
+    "static/media/shareIcon.svg": "/Projeto-App-de-Receitas/static/media/shareIcon.e968f81c2b647a48c87118ebce88c072.svg",
+    "static/media/Login Button.svg": "/Projeto-App-de-Receitas/static/media/Login Button.b41afe9c4833b94107ac5ea64b77d9af.svg",
+    "static/media/blackHeartIcon.svg": "/Projeto-App-de-Receitas/static/media/blackHeartIcon.a1e2cf581359f9768bac547c4e7a4551.svg",
+    "static/media/drinkIcon.svg": "/Projeto-App-de-Receitas/static/media/drinkIcon.b012e937d4919258778bbd1eeabd2ab2.svg",
+    "index.html": "/Projeto-App-de-Receitas/index.html",
+    "static/media/whiteHeartIcon.svg": "/Projeto-App-de-Receitas/static/media/whiteHeartIcon.3b92a6ed0dc7b52f946b482dd91c6bd3.svg",
+    "static/media/profileIcon.svg": "/Projeto-App-de-Receitas/static/media/profileIcon.11a064b8b39a6218320ef05e65309cf9.svg",
+    "static/media/searchIcon.svg": "/Projeto-App-de-Receitas/static/media/searchIcon.6120754707de193b4e0ba4778e4c70cc.svg",
+    "main.26b64e8d.css.map": "/Projeto-App-de-Receitas/static/css/main.26b64e8d.css.map",
+    "main.ffe96c81.js.map": "/Projeto-App-de-Receitas/static/js/main.ffe96c81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26b64e8d.css",
+    "static/js/main.ffe96c81.js"
+  ]
+}
