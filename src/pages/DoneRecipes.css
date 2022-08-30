@@ -65,6 +65,11 @@
 }
 
 .icon-share-recipes {
+  border: none;
   margin: 5px;
   margin-left: 110px;
+}
+
+.data-card-recipes a {
+  text-decoration: none;
 }

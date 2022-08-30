@@ -1,6 +1,6 @@
+import clipboardCopy from 'clipboard-copy';
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import clipboardCopy from 'clipboard-copy';
 import Header from '../components/Header';
 import LogoDone from '../images/Logo-done-recipes.svg';
 import Receitapp from '../images/ReceitappTittle.svg';
