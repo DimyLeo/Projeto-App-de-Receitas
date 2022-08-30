@@ -35,7 +35,9 @@
 }
 
 .img-card-recipes {
-  height: 140px;
+  border-radius: 20px;
+  height: 160px;
+  object-fit: cover;
   width: 300px;
 }
 
@@ -43,11 +45,13 @@
   backdrop-filter: blur(3px);
   background: rgba(255, 220, 190, 0.85);
   border-radius: 0 20px 20px 0;
-  height: 140px;
+  height: 160px;
   margin-bottom: 4px;
-  margin-left: 122px;
-  padding: 15px;
+  margin-left: 130px;
+  padding: 8px;
+  position: absolute;
   text-align: center;
+  width: 170px;
 }
 
 .name {

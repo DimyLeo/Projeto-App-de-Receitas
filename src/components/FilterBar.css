@@ -25,3 +25,7 @@
   margin: auto;
   width: 200px;
 }
+
+.ratios-search-bar {
+  display: none;
+}

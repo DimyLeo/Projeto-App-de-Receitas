@@ -141,7 +141,7 @@ ul {
   list-style: none;
 }
 
-/* .switch {
+.switch {
   align-items: center;
   cursor: pointer;
   display: flex;
@@ -199,4 +199,4 @@ ul {
   position: absolute;
   transition: 0.4s all ease;
   width: 26px;
-} */
+}

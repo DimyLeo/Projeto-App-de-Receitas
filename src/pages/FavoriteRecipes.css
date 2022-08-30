@@ -25,7 +25,7 @@
 
 .RecipeFavoriteCard img {
   border-radius: 20px;
-  height: 140px;
+  height: 160px;
   object-fit: cover;
   width: 300px;
 }
@@ -34,14 +34,13 @@
   backdrop-filter: blur(3px);
   background: rgba(255, 220, 190, 0.85);
   border-radius: 0 20px 20px 0;
-  height: 140px;
+  height: 160px;
   margin-bottom: 4px;
-  margin-left: 122px;
-  padding: 5px;
-
-  /* position: absolute; */
+  margin-left: 130px;
+  padding: 8px;
+  position: absolute;
   text-align: center;
-  width: 190px;
+  width: 170px;
 }
 
 .div-favorite-page button {
