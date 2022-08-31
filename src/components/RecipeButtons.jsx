@@ -19,7 +19,7 @@ const RecipeButtons = ({ favoriteRecipe }) => {
 
   const shareRecipe = (pathname) => {
     const url = pathname.replace('/in-progress', '');
-    clipboardCopy(`http://dimyleo.github.io${url}`);
+    clipboardCopy(`http://dimyleo.github.io/#/${url}`);
     setIsCopied(true);
     setTimeout(() => {
       setIsCopied(false);

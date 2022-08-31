@@ -20,7 +20,7 @@ function FavoriteRecipes() {
   });
 
   const shareRecipe = (id, type) => {
-    clipboardCopy(`http://dimyleo.github.io/${type}s/${id}`);
+    clipboardCopy(`http://dimyleo.github.io/#/${type}s/${id}`);
     setIsCopied(true);
     setTimeout(() => {
       setIsCopied(false);
