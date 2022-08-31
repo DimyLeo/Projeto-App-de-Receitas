@@ -11,7 +11,7 @@ function Profile() {
   const history = useHistory();
   const handleLogout = () => {
     localStorage.clear();
-    history.push('/Projeto-App-de-Receitas');
+    history.push('/');
   };
 
   const getGravatar = () => {
