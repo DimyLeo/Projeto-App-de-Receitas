@@ -27,7 +27,7 @@ function DoneRecipes() {
     : doneRecipes.filter(({ type }) => type === filterDoneRercipes);
 
   const shareRecipe = (id, type) => {
-    clipboardCopy(`https://dimyleo.github.io/#/${type}s/${id}`);
+    clipboardCopy(`https://dimyleo.github.io/Projeto-App-de-Receitas/#/${type}s/${id}`);
     setIsCopied(true);
     setTimeout(() => {
       setIsCopied(false);
