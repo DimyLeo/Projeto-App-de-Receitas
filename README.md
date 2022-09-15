@@ -35,8 +35,8 @@ Foi utilizado 3 [APIs](#apis-usadas) para trazer as receitas, uma para as comida
   
   - O layout é feito para uso mobile, sendo pratico de para aprender novas receitas apenas com o celular.
 
-  - ![Gif preview](/src/images/GIT-RECEITAP.gif)
-
+  <img src='/src/images/GIT-RECEITAP.gif' alt=''gif-projeto />
+  
 ---
 ## APIs usadas:
 ### TheMealDB API
