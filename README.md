@@ -35,7 +35,7 @@ Foi utilizado 3 [APIs](#apis-usadas) para trazer as receitas, uma para as comida
   
   - O layout é feito para uso mobile, sendo pratico de para aprender novas receitas apenas com o celular.
 
-  ('https://images2.imgbox.com/a9/29/TjnxQJ6O_o.gif')
+  - ![Gif preview](https://images2.imgbox.com/a9/29/TjnxQJ6O_o.gif)
 
 ---
 ## APIs usadas:
