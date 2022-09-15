@@ -45,3 +45,4 @@ Foi utilizado 3 [APIs](#apis-usadas) para trazer as receitas, uma para as comida
 [TheMealDB](https://www.themealdb.com/) & [TheCocktailDB](https://www.thecocktaildb.com/) São bancos de dados abertos, mantidos pela comunidade com diversas receitas de comidas e bebidas e ingredientes.
 
 ---
+Esse é o nosso Projeto, use nosso App para fazer e aprender diversas receitas de facil acesso. <a href='https://dimyleo.github.io/Projeto-App-de-Receitas/'>APP</a>
