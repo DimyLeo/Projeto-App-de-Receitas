@@ -7,7 +7,7 @@ Esse é o um Projeto em grupo feito em React com ContextAPI, avaliando a criaç�
 
 ## Grupo que Desenvolveu
 
-  - [@danilobarrosribeiro]https://github.com/danilobarrosribeiro);
+  - [@danilobarrosribeiro](https://github.com/danilobarrosribeiro);
   - [@SimplyNag](https://github.com/SimplyNag);
   - [@vschagas](https://github.com/vschagas);
   - [@natomendes](https://github.com/natomendes);
