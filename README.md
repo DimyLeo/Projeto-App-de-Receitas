@@ -5,7 +5,7 @@ Esse é o um Projeto em grupo feito em React com ContextAPI, avaliando a criaç�
 
 ### _A [Trybe](https://www.betrybe.com/) Project_
 
-## Grupo que Desenvolveu
+## Grupo que Desenvolveu:
 
   - [@danilobarrosribeiro](https://github.com/danilobarrosribeiro);
   - [@SimplyNag](https://github.com/SimplyNag);
@@ -23,7 +23,7 @@ Esse é o um Projeto em grupo feito em React com ContextAPI, avaliando a criaç�
   - Gravatar para icone personalizado no Perfil
 
 ---
-## O que foi Desenvolvido
+## O que foi Desenvolvido:
 
 Um Aplicativo Mobile para a Web que te instrui e ensina a fazer diversas receitas, de forma simples e didatica, 
 o Grupo teve 10 dias para entregar o projeto e ser aprovado em todos os requisitos.
@@ -38,8 +38,9 @@ Foi utilizado 3 [APIs](#apis-used), para trazer as receitas, uma para as comidas
   ![Gif preview]<img src='' alt='git-projeto' />
 
 ---
-## APIs used
+## APIs usadas:
 ### TheMealDB API
+### TheCocktailDB
 
 [TheMealDB](https://www.themealdb.com/) & [TheCocktailDB](https://www.thecocktaildb.com/) São bancos de dados abertos, mantidos pela comunidade com diversas receitas de comidas e bebidas e ingredientes.
 
