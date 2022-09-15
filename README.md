@@ -28,7 +28,7 @@ Esse é o um Projeto em grupo feito em React com ContextAPI, avaliando a criaç�
 Um Aplicativo Mobile para a Web que te instrui e ensina a fazer diversas receitas, de forma simples e didatica, 
 o Grupo teve 10 dias para entregar o projeto e ser aprovado em todos os requisitos.
 
-Foi utilizado 3 [APIs](#apis-used), para trazer as receitas, uma para as comidas, outra para os drinks e a API do gravatar.
+Foi utilizado 3 [APIs](#apis-usadas) para trazer as receitas, uma para as comidas, outra para os drinks e a API do gravatar.
 
 ---
 ## Layout:
