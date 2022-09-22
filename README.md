@@ -9,7 +9,7 @@ Esse é o um Projeto em grupo feito em React com ContextAPI, avaliando a criaç�
   
   - O layout é feito para uso mobile, sendo pratico de para aprender novas receitas apenas com o celular.
 
-  <img src='/src/images/GIT-RECEITAP.gif' alt='gif-projeto' />
+  <img width='500px' src='/src/images/GIT-RECEITAP.gif' alt='gif-projeto' />
   
 ---
 ## Grupo que Desenvolveu:
