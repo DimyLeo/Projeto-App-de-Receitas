@@ -1,6 +1,8 @@
 .div-login {
   align-items: center;
-  background-image: url('https://images2.imgbox.com/6c/d2/VHoj1nci_o.png');
+  /* background-image: url('https://images2.imgbox.com/6c/d2/VHoj1nci_o.png'); */
+  background-image: url('https://images2.imgbox.com/c3/7b/b5WUJ9Gn_o.png');
+  background-position: center;
   display: flex;
   flex-direction: column;
   height: 100vh;
