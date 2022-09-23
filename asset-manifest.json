@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Projeto-App-de-Receitas/static/css/main.510ac0ca.css",
+    "main.css": "/Projeto-App-de-Receitas/static/css/main.60ba597a.css",
     "main.js": "/Projeto-App-de-Receitas/static/js/main.ced1aa7e.js",
     "static/media/Bon Appetit.svg": "/Projeto-App-de-Receitas/static/media/Bon Appetit.580425bfc5da19f4a1b0f9f50840b101.svg",
     "static/media/Background (7).png": "/Projeto-App-de-Receitas/static/media/Background (7).08a0b1825785d256ebe4.png",
@@ -16,11 +16,11 @@
     "static/media/whiteHeartIcon.svg": "/Projeto-App-de-Receitas/static/media/whiteHeartIcon.3b92a6ed0dc7b52f946b482dd91c6bd3.svg",
     "static/media/profileIcon.svg": "/Projeto-App-de-Receitas/static/media/profileIcon.11a064b8b39a6218320ef05e65309cf9.svg",
     "static/media/searchIcon.svg": "/Projeto-App-de-Receitas/static/media/searchIcon.6120754707de193b4e0ba4778e4c70cc.svg",
-    "main.510ac0ca.css.map": "/Projeto-App-de-Receitas/static/css/main.510ac0ca.css.map",
+    "main.60ba597a.css.map": "/Projeto-App-de-Receitas/static/css/main.60ba597a.css.map",
     "main.ced1aa7e.js.map": "/Projeto-App-de-Receitas/static/js/main.ced1aa7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.510ac0ca.css",
+    "static/css/main.60ba597a.css",
     "static/js/main.ced1aa7e.js"
   ]
 }
